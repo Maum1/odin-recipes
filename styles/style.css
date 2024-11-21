@@ -5,6 +5,8 @@
     color: red;
     background-color: orange;
     text-align: center;
+    margin:10px 300px;
+    box-sizing: border-box;
 }
 
 .list {
@@ -12,4 +14,7 @@
     font-size: 40px;
     font-weight: 100;
     color: magenta;
+    text-align: center;
+    margin:20px 500px;
+    box-sizing: border-box;
 }
