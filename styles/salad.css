@@ -11,12 +11,5 @@ h2 {
 ul,
 ol {
     box-sizing: border-box;
-    margin-block: 16px;
-}
-ul {
-    margin-inline:500px;
-}
-ol {
-    
-    margin-inline: 50px;
+    margin: 16px 500px;
 }
